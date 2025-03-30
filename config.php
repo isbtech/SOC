@@ -1,13 +1,13 @@
 <?php
 // Database connection configuration
 define('DB_HOST', 'localhost');
-define('DB_USER', 'cfsoccrimefire_socusrs');
-define('DB_PASS', '41zJSTUxt6MHr1z');
-define('DB_NAME', 'cfsoccrimefire_socdbs');
+define('DB_USER', 'socusrs');
+define('DB_PASS', '00000');
+define('DB_NAME', 'socdbs');
 
 // Application constants
 define('SITE_NAME', 'SecOps Center');
-define('SITE_URL', 'https://cfsoc.crimefire.in/');
+define('SITE_URL', 'https://cfsoc.baseurl.in/');
 define('UPLOAD_DIR', 'uploads/');
 define('LOG_DIR', 'logs/');
 
